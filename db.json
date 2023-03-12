@@ -1,0 +1,76 @@
+{
+	"developer": [
+		{
+			"id": 1,
+			"name": "Shahadat Hussain Ripon",
+			"email": "devripon@gmail.com",
+			"cell": "01913509868",
+			"image": "http://demo.themecanyon.org/primax/images/primax/team/team-1.jpg",
+			"roleId": 2,
+			"skillId": 1
+		},
+		{
+			"id": 2,
+			"name": "Mony Akter",
+			"email": "mony@gmail.com",
+			"cell": "01966060192",
+			"image": "https://imarketz.in/wp-content/uploads/2019/08/team-member-01.jpg",
+			"roleId": 2,
+			"skillId": 2
+		},
+		{
+			"id": 3,
+			"name": "Alamgir Hossain",
+			"email": "alam@gmail.com",
+			"cell": "01966060194",
+			"image": "https://www.ultimatebeaver.com/wp-content/uploads/2021/04/photo-gallery-img-02.jpg",
+			"roleId": 3,
+			"skillId": 3
+		},
+		{
+			"id": 4,
+			"name": "devripon",
+			"email": "devripon@gmail.com",
+			"cell": "01966060396",
+			"image": "https://energaia.com/wp-content/uploads/2020/10/team-member-8.jpg",
+			"roleId": 1,
+			"skillId": 4
+		}
+	],
+	"skill": [
+		{
+			"id": 1,
+			"name": "Laravel Developer"
+		},
+		{
+			"id": 2,
+			"name": "Javascript Developer"
+		},
+		{
+			"id": 3,
+			"name": "MERN Stack Developer"
+		},
+		{
+			"id": 4,
+			"name": "IOS Developer"
+		}
+	],
+	"role": [
+		{
+			"id": 1,
+			"name": "Marketing Manager"
+		},
+		{
+			"id": 2,
+			"name": "Head Of Operations"
+		},
+		{
+			"id": 3,
+			"name": "Team Leader"
+		},
+		{
+			"id": 4,
+			"name": "Project Manager"
+		}
+	]
+}

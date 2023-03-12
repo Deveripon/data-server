@@ -1,0 +1,14 @@
+{
+	"name": "data-server",
+	"version": "1.0.0",
+	"description": "This is a REST API of data",
+	"main": "index.js",
+	"scripts": {
+		"server": "json-server --watch db.json --port 5050"
+	},
+	"author": "devripon",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.2"
+	}
+}
